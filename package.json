@@ -1,0 +1,15 @@
+{
+  "name": "fullstack-woitasen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "web": "npm run dev --prefix web",
+    "api": "npm run api --prefix api",
+    "install-api": "npm install --prefix api",
+    "install-web": "npm install --prefix web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
